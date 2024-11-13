@@ -1,0 +1,14 @@
+{
+    "steps": [
+        "step 1: Navigate to /qcitech-solutions",
+        "step 2: Click on link OurServices -> Navigate to page 'qcitech-solutions/home'",
+        "step 3: Click on link learnMore (LearnMore3) -> Navigate to page 'qcitech-solutions/team-4'",
+        "step 4: Click on link buyService (BuyService2)",
+        "step 5: Fill out and submit the quote request form for testing services",
+        "step 6: Click on div Close",
+        "step 7: Click on link OurServices -> Navigate to page 'qcitech-solutions/home'",
+        "step 8: Click on link OnboardUs",
+        "step 9: Fill out and submit the quote request form for testing services",
+        "step 10: Take full page screenshot as checkpoint"
+    ]
+}
