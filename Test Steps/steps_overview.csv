@@ -1,0 +1,527 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+1,Explore Services and Request Quote for Testing Solutions,"Navigate through the services offered, learn more about cloud solutions, and submit quote requests for testing services.","Step 1: Navigate to /qcitech-solutions
+Step 2: Click on link OurServices -> Navigate to page 'qcitech-solutions/home'
+Step 3: Click on link LearnMore -> Navigate to page 'qcitech-solutions/cloud-solutions'
+Step 4: Click on link Back -> Navigate to page 'qcitech-solutions/home'
+Step 5: Click on link learnMore (LearnMore2) -> Navigate to page 'qcitech-solutions/team-4'
+Step 6: Click on link buyService (BuyService)
+Step 7: Fill out and submit the quote request form for testing services
+	- Step 1: Click on input FullName
+	- Step 2: Enter input value in input FullName
+	- Step 3: Click on input Email
+	- Step 4: Enter input value in input Email
+	- Step 5: Click on input CompanyName
+	- Step 6: Enter input value in input CompanyName
+	- Step 7: Click on input Phone
+	- Step 8: Click on input Position
+	- Step 9: Enter input value in input Position
+	- Step 10: Click on form QuoteRequest
+	- Step 11: Enter input value in input CompanyName
+	- Step 12: Click on input ProjectTimeline
+	- Step 13: Enter input value in input ProjectTimeline
+	- Step 14: Click on select TestingType
+	- Step 15: Click on div serviceOptions (WebOption)
+	- Step 16: Click on select TestingTool
+	- Step 17: Click on div serviceOptions (KatalonStudioOption)
+	- Step 18: Click on input Budget
+	- Step 19: Enter input value in input Budget
+	- Step 20: Click on textarea TestScenarios
+	- Step 21: Enter input value in textarea TestScenarios
+	- Step 22: Click on button Submit
+Step 8: Click on span Close
+Step 9: Click on link Videos -> Navigate to page 'qcitech-solutions/videos'
+Step 10: Click on link ContactUs
+Step 11: Fill out and submit the quote request form for testing services
+	- Step 1: Click on input FullName
+	- Step 2: Enter input value in input FullName
+	- Step 3: Click on input Email
+	- Step 4: Enter input value in input Email
+	- Step 5: Click on input CompanyName
+	- Step 6: Enter input value in input CompanyName
+	- Step 7: Click on input Phone
+	- Step 8: Click on input Position
+	- Step 9: Enter input value in input Position
+	- Step 10: Click on form QuoteRequest
+	- Step 11: Enter input value in input CompanyName
+	- Step 12: Click on input ProjectTimeline
+	- Step 13: Enter input value in input ProjectTimeline
+	- Step 14: Click on select TestingType
+	- Step 15: Click on div serviceOptions (WebOption)
+	- Step 16: Click on select TestingTool
+	- Step 17: Click on div serviceOptions (KatalonStudioOption)
+	- Step 18: Click on input Budget
+	- Step 19: Enter input value in input Budget
+	- Step 20: Click on textarea TestScenarios
+	- Step 21: Enter input value in textarea TestScenarios
+	- Step 22: Click on button Submit
+Step 12: Click on span Close -> Navigate to page ''
+Step 13: Take full page screenshot as checkpoint
+",High,STABLE
+2,Request Quote for Testing Services and Onboarding Process,"Navigate to services, request quotes for testing services, and explore onboarding options while ensuring return to the home page.","Step 1: Navigate to /qcitech-solutions
+Step 2: Click on link OurServices -> Navigate to page 'qcitech-solutions/home'
+Step 3: Click on link learnMore (LearnMore3) -> Navigate to page 'qcitech-solutions/team-4'
+Step 4: Click on link buyService (BuyService2)
+Step 5: Fill out and submit the quote request form for testing services
+	- Step 1: Click on input FullName
+	- Step 2: Enter input value in input FullName
+	- Step 3: Click on input Email
+	- Step 4: Enter input value in input Email
+	- Step 5: Click on input CompanyName
+	- Step 6: Enter input value in input CompanyName
+	- Step 7: Click on input Phone
+	- Step 8: Click on input Position
+	- Step 9: Enter input value in input Position
+	- Step 10: Click on form QuoteRequest
+	- Step 11: Enter input value in input CompanyName
+	- Step 12: Click on input ProjectTimeline
+	- Step 13: Enter input value in input ProjectTimeline
+	- Step 14: Click on select TestingType
+	- Step 15: Click on div serviceOptions (WebOption)
+	- Step 16: Click on select TestingTool
+	- Step 17: Click on div serviceOptions (KatalonStudioOption)
+	- Step 18: Click on input Budget
+	- Step 19: Enter input value in input Budget
+	- Step 20: Click on textarea TestScenarios
+	- Step 21: Enter input value in textarea TestScenarios
+	- Step 22: Click on button Submit
+Step 6: Click on div Close
+Step 7: Click on link OurServices -> Navigate to page 'qcitech-solutions/home'
+Step 8: Click on link OnboardUs
+Step 9: Fill out and submit the quote request form for testing services
+	- Step 1: Click on input FullName
+	- Step 2: Enter input value in input FullName
+	- Step 3: Click on input Email
+	- Step 4: Enter input value in input Email
+	- Step 5: Click on input CompanyName
+	- Step 6: Enter input value in input CompanyName
+	- Step 7: Click on input Phone
+	- Step 8: Click on input Position
+	- Step 9: Enter input value in input Position
+	- Step 10: Click on form QuoteRequest
+	- Step 11: Enter input value in input CompanyName
+	- Step 12: Click on input ProjectTimeline
+	- Step 13: Enter input value in input ProjectTimeline
+	- Step 14: Click on select TestingType
+	- Step 15: Click on div serviceOptions (WebOption)
+	- Step 16: Click on select TestingTool
+	- Step 17: Click on div serviceOptions (KatalonStudioOption)
+	- Step 18: Click on input Budget
+	- Step 19: Enter input value in input Budget
+	- Step 20: Click on textarea TestScenarios
+	- Step 21: Enter input value in textarea TestScenarios
+	- Step 22: Click on button Submit
+Step 10: Take full page screenshot as checkpoint
+",High,STABLE
+5,Request a Quote for Testing Services from Home Page,"Navigate to the home page, access the contact us link, fill out the quote request form for testing services, and verify successful navigation back to the home page.","Step 1: Navigate to qcitech-solutions/home
+Step 2: Click on link ContactUs
+Step 3: Fill out and submit the quote request form for testing services
+	- Step 1: Click on input FullName
+	- Step 2: Enter input value in input FullName
+	- Step 3: Click on input Email
+	- Step 4: Enter input value in input Email
+	- Step 5: Click on input CompanyName
+	- Step 6: Enter input value in input CompanyName
+	- Step 7: Click on input Phone
+	- Step 8: Click on input Position
+	- Step 9: Enter input value in input Position
+	- Step 10: Click on form QuoteRequest
+	- Step 11: Enter input value in input CompanyName
+	- Step 12: Click on input ProjectTimeline
+	- Step 13: Enter input value in input ProjectTimeline
+	- Step 14: Click on select TestingType
+	- Step 15: Click on div serviceOptions (WebOption)
+	- Step 16: Click on select TestingTool
+	- Step 17: Click on div serviceOptions (KatalonStudioOption)
+	- Step 18: Click on input Budget
+	- Step 19: Enter input value in input Budget
+	- Step 20: Click on textarea TestScenarios
+	- Step 21: Enter input value in textarea TestScenarios
+	- Step 22: Click on button Submit
+Step 4: Click on span Close2 -> Navigate to page ''
+Step 5: Take full page screenshot as checkpoint
+",Medium,NEW
+4,Request Multiple Quotes for Testing Services from Various Pages,"Navigate through the services and team pages, repeatedly fill out the quote request form for testing services, and verify return to the home page after each submission.","Step 1: Navigate to /qcitech-solutions
+Step 2: Click on link OurServices -> Navigate to page 'qcitech-solutions/home'
+Step 3: Click on link learnMore (LearnMore) -> Navigate to page 'qcitech-solutions/team-4'
+Step 4: Click on link buyService (BuyService)
+Step 5: Fill out and submit the quote request form for testing services
+	- Step 1: Click on input FullName
+	- Step 2: Enter input value in input FullName
+	- Step 3: Click on input Email
+	- Step 4: Enter input value in input Email
+	- Step 5: Click on input CompanyName
+	- Step 6: Enter input value in input CompanyName
+	- Step 7: Click on input Phone
+	- Step 8: Click on input Position
+	- Step 9: Enter input value in input Position
+	- Step 10: Click on form QuoteRequest
+	- Step 11: Enter input value in input CompanyName
+	- Step 12: Click on input ProjectTimeline
+	- Step 13: Enter input value in input ProjectTimeline
+	- Step 14: Click on select TestingType
+	- Step 15: Click on div serviceOptions (WebOption)
+	- Step 16: Click on select TestingTool
+	- Step 17: Click on div serviceOptions (KatalonStudioOption)
+	- Step 18: Click on input Budget
+	- Step 19: Enter input value in input Budget
+	- Step 20: Click on textarea TestScenarios
+	- Step 21: Enter input value in textarea TestScenarios
+	- Step 22: Click on button Submit
+Step 6: Click on div Close
+Step 7: Click on link OurServices -> Navigate to page 'qcitech-solutions/home'
+Step 8: Click on link OnboardUs
+Step 9: Fill out and submit the quote request form for testing services
+	- Step 1: Click on input FullName
+	- Step 2: Enter input value in input FullName
+	- Step 3: Click on input Email
+	- Step 4: Enter input value in input Email
+	- Step 5: Click on input CompanyName
+	- Step 6: Enter input value in input CompanyName
+	- Step 7: Click on input Phone
+	- Step 8: Click on input Position
+	- Step 9: Enter input value in input Position
+	- Step 10: Click on form QuoteRequest
+	- Step 11: Enter input value in input CompanyName
+	- Step 12: Click on input ProjectTimeline
+	- Step 13: Enter input value in input ProjectTimeline
+	- Step 14: Click on select TestingType
+	- Step 15: Click on div serviceOptions (WebOption)
+	- Step 16: Click on select TestingTool
+	- Step 17: Click on div serviceOptions (KatalonStudioOption)
+	- Step 18: Click on input Budget
+	- Step 19: Enter input value in input Budget
+	- Step 20: Click on textarea TestScenarios
+	- Step 21: Enter input value in textarea TestScenarios
+	- Step 22: Click on button Submit
+Step 10: Click on span Close
+Step 11: Click on link OurServices -> Navigate to page 'qcitech-solutions/home'
+Step 12: Click on button navigation (Prev)
+Step 13: Click on div MeshContainer
+Step 14: Click on button navigation (Prev)
+Step 15: Click on div MeshContainer
+Step 16: Click on div ColorUnderlay
+Step 17: Click on button navigation (Prev)
+Step 18: Click on div Testimonials
+Step 19: Click on div ContainerBackground
+Step 20: Click on link OnboardUs2
+Step 21: Fill out and submit the quote request form for testing services
+	- Step 1: Click on input FullName
+	- Step 2: Enter input value in input FullName
+	- Step 3: Click on input Email
+	- Step 4: Enter input value in input Email
+	- Step 5: Click on input CompanyName
+	- Step 6: Enter input value in input CompanyName
+	- Step 7: Click on input Phone
+	- Step 8: Click on input Position
+	- Step 9: Enter input value in input Position
+	- Step 10: Click on form QuoteRequest
+	- Step 11: Enter input value in input CompanyName
+	- Step 12: Click on input ProjectTimeline
+	- Step 13: Enter input value in input ProjectTimeline
+	- Step 14: Click on select TestingType
+	- Step 15: Click on div serviceOptions (WebOption)
+	- Step 16: Click on select TestingTool
+	- Step 17: Click on div serviceOptions (KatalonStudioOption)
+	- Step 18: Click on input Budget
+	- Step 19: Enter input value in input Budget
+	- Step 20: Click on textarea TestScenarios
+	- Step 21: Enter input value in textarea TestScenarios
+	- Step 22: Click on button Submit
+Step 22: Click on span Close
+Step 23: Click on link OurServices -> Navigate to page 'qcitech-solutions/home'
+Step 24: Click on header AutomationTesting
+Step 25: Click on link OurServices
+Step 26: Click on link learnMore (LearnMore2) -> Navigate to page 'qcitech-solutions/team-4'
+Step 27: Click on link buyService (BuyService2)
+Step 28: Fill out and submit the quote request form for testing services
+	- Step 1: Click on input FullName
+	- Step 2: Enter input value in input FullName
+	- Step 3: Click on input Email
+	- Step 4: Enter input value in input Email
+	- Step 5: Click on input CompanyName
+	- Step 6: Enter input value in input CompanyName
+	- Step 7: Click on input Phone
+	- Step 8: Click on input Position
+	- Step 9: Enter input value in input Position
+	- Step 10: Click on form QuoteRequest
+	- Step 11: Enter input value in input CompanyName
+	- Step 12: Click on input ProjectTimeline
+	- Step 13: Enter input value in input ProjectTimeline
+	- Step 14: Click on select TestingType
+	- Step 15: Click on div serviceOptions (WebOption)
+	- Step 16: Click on select TestingTool
+	- Step 17: Click on div serviceOptions (KatalonStudioOption)
+	- Step 18: Click on input Budget
+	- Step 19: Enter input value in input Budget
+	- Step 20: Click on textarea TestScenarios
+	- Step 21: Enter input value in textarea TestScenarios
+	- Step 22: Click on button Submit
+Step 29: Click on div ColorUnderlay
+Step 30: Click on span Close -> Navigate to page '/qcitech-solutions'
+Step 31: Click on link OurServices -> Navigate to page 'qcitech-solutions/home'
+Step 32: Click on link learnMore (LearnMore) -> Navigate to page 'qcitech-solutions/team-4'
+Step 33: Click on link buyService (BuyService3)
+Step 34: Fill out and submit the quote request form for testing services
+	- Step 1: Click on input FullName
+	- Step 2: Enter input value in input FullName
+	- Step 3: Click on input Email
+	- Step 4: Enter input value in input Email
+	- Step 5: Click on input CompanyName
+	- Step 6: Enter input value in input CompanyName
+	- Step 7: Click on input Phone
+	- Step 8: Click on input Position
+	- Step 9: Enter input value in input Position
+	- Step 10: Click on form QuoteRequest
+	- Step 11: Enter input value in input CompanyName
+	- Step 12: Click on input ProjectTimeline
+	- Step 13: Enter input value in input ProjectTimeline
+	- Step 14: Click on select TestingType
+	- Step 15: Click on div serviceOptions (WebOption)
+	- Step 16: Click on select TestingTool
+	- Step 17: Click on div serviceOptions (KatalonStudioOption)
+	- Step 18: Click on input Budget
+	- Step 19: Enter input value in input Budget
+	- Step 20: Click on textarea TestScenarios
+	- Step 21: Enter input value in textarea TestScenarios
+	- Step 22: Click on button Submit
+Step 35: Click on div Close
+Step 36: Click on link OurServices -> Navigate to page 'qcitech-solutions/home'
+Step 37: Click on link LearnMore3 -> Navigate to page 'qcitech-solutions/cloud-desktop'
+Step 38: Click on link Back -> Navigate to page 'qcitech-solutions/home'
+Step 39: Click on link LearnMore4 -> Navigate to page 'qcitech-solutions/disaster-recovery'
+Step 40: Click on link Back -> Navigate to page 'qcitech-solutions/home'
+Step 41: Click on link learnMore (LearnMore2) -> Navigate to page 'qcitech-solutions/team-4'
+Step 42: Click on link buyService (BuyService4)
+Step 43: Fill out and submit the quote request form for testing services
+	- Step 1: Click on input FullName
+	- Step 2: Enter input value in input FullName
+	- Step 3: Click on input Email
+	- Step 4: Enter input value in input Email
+	- Step 5: Click on input CompanyName
+	- Step 6: Enter input value in input CompanyName
+	- Step 7: Click on input Phone
+	- Step 8: Click on input Position
+	- Step 9: Enter input value in input Position
+	- Step 10: Click on form QuoteRequest
+	- Step 11: Enter input value in input CompanyName
+	- Step 12: Click on input ProjectTimeline
+	- Step 13: Enter input value in input ProjectTimeline
+	- Step 14: Click on select TestingType
+	- Step 15: Click on div serviceOptions (WebOption)
+	- Step 16: Click on select TestingTool
+	- Step 17: Click on div serviceOptions (KatalonStudioOption)
+	- Step 18: Click on input Budget
+	- Step 19: Enter input value in input Budget
+	- Step 20: Click on textarea TestScenarios
+	- Step 21: Enter input value in textarea TestScenarios
+	- Step 22: Click on button Submit
+Step 44: Click on span Close
+Step 45: Click on link OurServices -> Navigate to page 'qcitech-solutions/home'
+Step 46: Click on link learnMore (LearnMore) -> Navigate to page 'qcitech-solutions/team-4'
+Step 47: Click on link buyService (BuyService5)
+Step 48: Fill out and submit the quote request form for testing services
+	- Step 1: Click on input FullName
+	- Step 2: Enter input value in input FullName
+	- Step 3: Click on input Email
+	- Step 4: Enter input value in input Email
+	- Step 5: Click on input CompanyName
+	- Step 6: Enter input value in input CompanyName
+	- Step 7: Click on input Phone
+	- Step 8: Click on input Position
+	- Step 9: Enter input value in input Position
+	- Step 10: Click on form QuoteRequest
+	- Step 11: Enter input value in input CompanyName
+	- Step 12: Click on input ProjectTimeline
+	- Step 13: Enter input value in input ProjectTimeline
+	- Step 14: Click on select TestingType
+	- Step 15: Click on div serviceOptions (WebOption)
+	- Step 16: Click on select TestingTool
+	- Step 17: Click on div serviceOptions (KatalonStudioOption)
+	- Step 18: Click on input Budget
+	- Step 19: Enter input value in input Budget
+	- Step 20: Click on textarea TestScenarios
+	- Step 21: Enter input value in textarea TestScenarios
+	- Step 22: Click on button Submit
+Step 49: Click on span Close
+Step 50: Click on link Videos -> Navigate to page 'qcitech-solutions/videos'
+Step 51: Click on link AboutUs -> Navigate to page '/qcitech-solutions'
+Step 52: Click on link OurServices -> Navigate to page 'qcitech-solutions/home'
+Step 53: Click on header PremierTestingPartners
+Step 54: Click on link OnboardUs
+Step 55: Fill out and submit the quote request form for testing services
+	- Step 1: Click on input FullName
+	- Step 2: Enter input value in input FullName
+	- Step 3: Click on input Email
+	- Step 4: Enter input value in input Email
+	- Step 5: Click on input CompanyName
+	- Step 6: Enter input value in input CompanyName
+	- Step 7: Click on input Phone
+	- Step 8: Click on input Position
+	- Step 9: Enter input value in input Position
+	- Step 10: Click on form QuoteRequest
+	- Step 11: Enter input value in input CompanyName
+	- Step 12: Click on input ProjectTimeline
+	- Step 13: Enter input value in input ProjectTimeline
+	- Step 14: Click on select TestingType
+	- Step 15: Click on div serviceOptions (WebOption)
+	- Step 16: Click on select TestingTool
+	- Step 17: Click on div serviceOptions (KatalonStudioOption)
+	- Step 18: Click on input Budget
+	- Step 19: Enter input value in input Budget
+	- Step 20: Click on textarea TestScenarios
+	- Step 21: Enter input value in textarea TestScenarios
+	- Step 22: Click on button Submit
+Step 56: Click on span Close
+Step 57: Click on link Videos -> Navigate to page 'qcitech-solutions/videos'
+Step 58: Click on link OurServices -> Navigate to page 'qcitech-solutions/home'
+Step 59: Click on button navigation (Next)
+Step 60: Click on button navigation (Next)
+Step 61: Click on button navigation (Next)
+Step 62: Click on header ReadyToEnsureQuality
+Step 63: Click on link OnboardUs2
+Step 64: Fill out and submit the quote request form for testing services
+	- Step 1: Click on input FullName
+	- Step 2: Enter input value in input FullName
+	- Step 3: Click on input Email
+	- Step 4: Enter input value in input Email
+	- Step 5: Click on input CompanyName
+	- Step 6: Enter input value in input CompanyName
+	- Step 7: Click on input Phone
+	- Step 8: Click on input Position
+	- Step 9: Enter input value in input Position
+	- Step 10: Click on form QuoteRequest
+	- Step 11: Enter input value in input CompanyName
+	- Step 12: Click on input ProjectTimeline
+	- Step 13: Enter input value in input ProjectTimeline
+	- Step 14: Click on select TestingType
+	- Step 15: Click on div serviceOptions (WebOption)
+	- Step 16: Click on select TestingTool
+	- Step 17: Click on div serviceOptions (KatalonStudioOption)
+	- Step 18: Click on input Budget
+	- Step 19: Enter input value in input Budget
+	- Step 20: Click on textarea TestScenarios
+	- Step 21: Enter input value in textarea TestScenarios
+	- Step 22: Click on button Submit
+Step 65: Click on div Close -> Navigate to page ''
+Step 66: Take full page screenshot as checkpoint
+",Trivial,NEW
+3,Test Service Quote Request and Onboarding Process in Application,"Navigate through the application to request quotes for testing services. Fill out forms, close pop-ups, and verify navigation to the home page.","Step 1: Navigate to /qcitech-solutions
+Step 2: Click on link OurServices -> Navigate to page 'qcitech-solutions/home'
+Step 3: Click on link learnMore (LearnMore) -> Navigate to page 'qcitech-solutions/team-4'
+Step 4: Click on link buyService (BuyService)
+Step 5: Fill out and submit the quote request form for testing services
+	- Step 1: Click on input FullName
+	- Step 2: Enter input value in input FullName
+	- Step 3: Click on input Email
+	- Step 4: Enter input value in input Email
+	- Step 5: Click on input CompanyName
+	- Step 6: Enter input value in input CompanyName
+	- Step 7: Click on input Phone
+	- Step 8: Click on input Position
+	- Step 9: Enter input value in input Position
+	- Step 10: Click on form QuoteRequest
+	- Step 11: Enter input value in input CompanyName
+	- Step 12: Click on input ProjectTimeline
+	- Step 13: Enter input value in input ProjectTimeline
+	- Step 14: Click on select TestingType
+	- Step 15: Click on div serviceOptions (WebOption)
+	- Step 16: Click on select TestingTool
+	- Step 17: Click on div serviceOptions (KatalonStudioOption)
+	- Step 18: Click on input Budget
+	- Step 19: Enter input value in input Budget
+	- Step 20: Click on textarea TestScenarios
+	- Step 21: Enter input value in textarea TestScenarios
+	- Step 22: Click on button Submit
+Step 6: Click on div Close
+Step 7: Click on link OurServices -> Navigate to page 'qcitech-solutions/home'
+Step 8: Click on link OnboardUs
+Step 9: Fill out and submit the quote request form for testing services
+	- Step 1: Click on input FullName
+	- Step 2: Enter input value in input FullName
+	- Step 3: Click on input Email
+	- Step 4: Enter input value in input Email
+	- Step 5: Click on input CompanyName
+	- Step 6: Enter input value in input CompanyName
+	- Step 7: Click on input Phone
+	- Step 8: Click on input Position
+	- Step 9: Enter input value in input Position
+	- Step 10: Click on form QuoteRequest
+	- Step 11: Enter input value in input CompanyName
+	- Step 12: Click on input ProjectTimeline
+	- Step 13: Enter input value in input ProjectTimeline
+	- Step 14: Click on select TestingType
+	- Step 15: Click on div serviceOptions (WebOption)
+	- Step 16: Click on select TestingTool
+	- Step 17: Click on div serviceOptions (KatalonStudioOption)
+	- Step 18: Click on input Budget
+	- Step 19: Enter input value in input Budget
+	- Step 20: Click on textarea TestScenarios
+	- Step 21: Enter input value in textarea TestScenarios
+	- Step 22: Click on button Submit
+Step 10: Click on span Close
+Step 11: Click on link OurServices -> Navigate to page 'qcitech-solutions/home'
+Step 12: Click on button Prev
+Step 13: Click on div MeshContainer
+Step 14: Click on button Prev
+Step 15: Click on div MeshContainer
+Step 16: Click on div ColorUnderlay
+Step 17: Click on button Prev
+Step 18: Click on div Testimonials
+Step 19: Click on div ContainerBackground
+Step 20: Click on link OnboardUs2
+Step 21: Fill out and submit the quote request form for testing services
+	- Step 1: Click on input FullName
+	- Step 2: Enter input value in input FullName
+	- Step 3: Click on input Email
+	- Step 4: Enter input value in input Email
+	- Step 5: Click on input CompanyName
+	- Step 6: Enter input value in input CompanyName
+	- Step 7: Click on input Phone
+	- Step 8: Click on input Position
+	- Step 9: Enter input value in input Position
+	- Step 10: Click on form QuoteRequest
+	- Step 11: Enter input value in input CompanyName
+	- Step 12: Click on input ProjectTimeline
+	- Step 13: Enter input value in input ProjectTimeline
+	- Step 14: Click on select TestingType
+	- Step 15: Click on div serviceOptions (WebOption)
+	- Step 16: Click on select TestingTool
+	- Step 17: Click on div serviceOptions (KatalonStudioOption)
+	- Step 18: Click on input Budget
+	- Step 19: Enter input value in input Budget
+	- Step 20: Click on textarea TestScenarios
+	- Step 21: Enter input value in textarea TestScenarios
+	- Step 22: Click on button Submit
+Step 22: Click on span Close
+Step 23: Click on link OurServices -> Navigate to page 'qcitech-solutions/home'
+Step 24: Click on header AutomationTesting
+Step 25: Click on link OurServices
+Step 26: Click on link learnMore (LearnMore2) -> Navigate to page 'qcitech-solutions/team-4'
+Step 27: Click on link buyService (BuyService2)
+Step 28: Fill out and submit the quote request form for testing services
+	- Step 1: Click on input FullName
+	- Step 2: Enter input value in input FullName
+	- Step 3: Click on input Email
+	- Step 4: Enter input value in input Email
+	- Step 5: Click on input CompanyName
+	- Step 6: Enter input value in input CompanyName
+	- Step 7: Click on input Phone
+	- Step 8: Click on input Position
+	- Step 9: Enter input value in input Position
+	- Step 10: Click on form QuoteRequest
+	- Step 11: Enter input value in input CompanyName
+	- Step 12: Click on input ProjectTimeline
+	- Step 13: Enter input value in input ProjectTimeline
+	- Step 14: Click on select TestingType
+	- Step 15: Click on div serviceOptions (WebOption)
+	- Step 16: Click on select TestingTool
+	- Step 17: Click on div serviceOptions (KatalonStudioOption)
+	- Step 18: Click on input Budget
+	- Step 19: Enter input value in input Budget
+	- Step 20: Click on textarea TestScenarios
+	- Step 21: Enter input value in textarea TestScenarios
+	- Step 22: Click on button Submit
+Step 29: Click on div ColorUnderlay
+Step 30: Click on span Close -> Navigate to page ''
+Step 31: Take full page screenshot as checkpoint
+",Trivial,RETAINED
