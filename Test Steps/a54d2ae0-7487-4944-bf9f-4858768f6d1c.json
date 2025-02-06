@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to *",
+        "step 2: Click on link OurServices",
+        "step 3: Fill out the quote request form with project details",
+        "step 4: Click on link Videos -> Navigate to page 'video content page#*/*'",
+        "step 5: Click on link ContactUs -> Navigate to page 'quote request#*/get-a-quote'",
+        "step 6: Take full page screenshot as checkpoint"
+    ]
+}

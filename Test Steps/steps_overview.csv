@@ -1,0 +1,186 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+4,Request a Quote and Verify Submission on Company Profile Page,"Navigate to the company profile, fill out the quote request form with project details, and verify the submission page.","Step 1: Navigate to *
+Step 2: Click on link OurServices
+Step 3: Fill out the quote request form with project details
+	- Step 1: Click on link LearnMore2 -> Navigate to page 'team information#*/*'
+	- Step 2: Click on link serviceOptions -> Navigate to page 'quote request#*/get-a-quote'
+	- Step 3: Click on input FullName
+	- Step 4: Enter input value in input FullName
+	- Step 5: Click on input Email
+	- Step 6: Enter input value in input Email
+	- Step 7: Click on input CompanyName
+	- Step 8: Enter input value in input CompanyName
+	- Step 9: Click on input Phone
+	- Step 10: Enter input value in input Phone
+	- Step 11: Click on input Position
+	- Step 12: Enter input value in input Position
+	- Step 13: Click on input ProjectTimeline
+	- Step 14: Enter input value in input ProjectTimeline
+	- Step 15: Click on div designableListOptions
+	- Step 16: Click on div designableListOptions
+	- Step 17: Click on input Budget
+	- Step 18: Enter input value in input Budget
+	- Step 19: Click on textarea DescribeTestScenarios
+	- Step 20: Enter input value in textarea DescribeTestScenarios
+	- Step 21: Click on button Submit
+	- Step 22: Click on div Close
+Step 4: Click on link Videos -> Navigate to page 'video content page#*/*'
+Step 5: Click on link ContactUs -> Navigate to page 'quote request#*/get-a-quote'
+Step 6: Take full page screenshot as checkpoint
+",High,NEW
+8,Submit Quote Request from Services Page and Verify,"Navigate to services, fill out a quote request form, and verify the submission page after accessing videos.","Step 1: Navigate to *
+Step 2: Click on link OurServices -> Navigate to page 'generic homepage#*/home'
+Step 3: Click on link OurServices
+Step 4: Fill out the quote request form with project details
+	- Step 1: Click on link LearnMore2 -> Navigate to page 'team information#*/*'
+	- Step 2: Click on link serviceOptions -> Navigate to page 'quote request#*/get-a-quote'
+	- Step 3: Click on input FullName
+	- Step 4: Enter input value in input FullName
+	- Step 5: Click on input Email
+	- Step 6: Enter input value in input Email
+	- Step 7: Click on input CompanyName
+	- Step 8: Enter input value in input CompanyName
+	- Step 9: Click on input Phone
+	- Step 10: Enter input value in input Phone
+	- Step 11: Click on input Position
+	- Step 12: Enter input value in input Position
+	- Step 13: Click on input ProjectTimeline
+	- Step 14: Enter input value in input ProjectTimeline
+	- Step 15: Click on div designableListOptions
+	- Step 16: Click on div designableListOptions
+	- Step 17: Click on input Budget
+	- Step 18: Enter input value in input Budget
+	- Step 19: Click on textarea DescribeTestScenarios
+	- Step 20: Enter input value in textarea DescribeTestScenarios
+	- Step 21: Click on button Submit
+	- Step 22: Click on div Close
+Step 5: Click on link Videos -> Navigate to page 'video content page#*/*'
+Step 6: Click on link ContactUs -> Navigate to page 'quote request#*/get-a-quote'
+Step 7: Take full page screenshot as checkpoint
+",High,NEW
+5,Navigate Services and Submit Quote Request with Verification,"Access company services, fill out a quote request form, and verify the submission after navigating through the site.","Step 1: Navigate to *
+Step 2: Click on link OurServices
+Step 3: Fill out the quote request form with project details
+	- Step 1: Click on link LearnMore2 -> Navigate to page 'team information#*/*'
+	- Step 2: Click on link serviceOptions -> Navigate to page 'quote request#*/get-a-quote'
+	- Step 3: Click on input FullName
+	- Step 4: Enter input value in input FullName
+	- Step 5: Click on input Email
+	- Step 6: Enter input value in input Email
+	- Step 7: Click on input CompanyName
+	- Step 8: Enter input value in input CompanyName
+	- Step 9: Click on input Phone
+	- Step 10: Enter input value in input Phone
+	- Step 11: Click on input Position
+	- Step 12: Enter input value in input Position
+	- Step 13: Click on input ProjectTimeline
+	- Step 14: Enter input value in input ProjectTimeline
+	- Step 15: Click on div designableListOptions
+	- Step 16: Click on div designableListOptions
+	- Step 17: Click on input Budget
+	- Step 18: Enter input value in input Budget
+	- Step 19: Click on textarea DescribeTestScenarios
+	- Step 20: Enter input value in textarea DescribeTestScenarios
+	- Step 21: Click on button Submit
+	- Step 22: Click on div Close
+Step 4: Click on link Videos -> Navigate to page 'video content page#*/*'
+Step 5: Click on link ContactUs -> Navigate to page 'quote request#*/get-a-quote'
+Step 6: Click on link OurServices -> Navigate to page 'generic homepage#*/home'
+Step 7: Click on button navigationNext (navigationNext)
+Step 8: Click on button navigationNext (navigationNext)
+Step 9: Click on button navigationNext (navigationNext)
+Step 10: Click on link OnboardUs -> Navigate to page 'quote request#*/get-a-quote'
+Step 11: Take full page screenshot as checkpoint
+",Medium,NEW
+6,Learn About Services and Submit Quote Request,"Navigate to services, learn about disaster recovery, fill out a quote request, and verify the home page.","Step 1: Navigate to *
+Step 2: Click on link OurServices -> Navigate to page 'generic homepage#*/home'
+Step 3: Click on link LearnMore -> Navigate to page 'disaster recovery services#*/*'
+Step 4: Click on link Back
+Step 5: Fill out the quote request form with project details
+	- Step 1: Click on link LearnMore2 -> Navigate to page 'team information#*/*'
+	- Step 2: Click on link serviceOptions -> Navigate to page 'quote request#*/get-a-quote'
+	- Step 3: Click on input FullName
+	- Step 4: Enter input value in input FullName
+	- Step 5: Click on input Email
+	- Step 6: Enter input value in input Email
+	- Step 7: Click on input CompanyName
+	- Step 8: Enter input value in input CompanyName
+	- Step 9: Click on input Phone
+	- Step 10: Enter input value in input Phone
+	- Step 11: Click on input Position
+	- Step 12: Enter input value in input Position
+	- Step 13: Click on input ProjectTimeline
+	- Step 14: Enter input value in input ProjectTimeline
+	- Step 15: Click on div designableListOptions
+	- Step 16: Click on div designableListOptions
+	- Step 17: Click on input Budget
+	- Step 18: Enter input value in input Budget
+	- Step 19: Click on textarea DescribeTestScenarios
+	- Step 20: Enter input value in textarea DescribeTestScenarios
+	- Step 21: Click on button Submit
+	- Step 22: Click on div Close
+Step 6: Take full page screenshot as checkpoint
+",Low,NEW
+7,Submit Detailed Quote Request with Team Information,Fill out a comprehensive quote request form including team details and verify the company profile page.,"Step 1: Navigate to *
+Step 2: Click on link OurServices -> Navigate to page 'generic homepage#*/home'
+Step 3: Click on link LearnMore2 -> Navigate to page 'team information#*/*'
+Step 4: Click on link serviceOptions (BuyService2) -> Navigate to page 'quote request#*/get-a-quote'
+Step 5: Click on input FullName
+Step 6: Enter input value in input FullName
+Step 7: Click on input Email
+Step 8: Enter input value in input Email
+Step 9: Click on input CompanyName
+Step 10: Enter input value in input CompanyName
+Step 11: Click on input Phone
+Step 12: Enter input value in input Phone
+Step 13: Click on input Position
+Step 14: Enter input value in input Position
+Step 15: Click on input ProjectTimeline
+Step 16: Enter input value in input ProjectTimeline
+Step 17: Click on div designableListOptions (designableListOption)
+Step 18: Click on div designableListOptions (designableListOption2)
+Step 19: Click on input Budget
+Step 20: Enter input value in input Budget
+Step 21: Click on textarea DescribeTestScenarios
+Step 22: Enter input value in textarea DescribeTestScenarios
+Step 23: Click on button Submit
+Step 24: Click on input Phone
+Step 25: Enter input value in input Phone
+Step 26: Click on button Submit
+Step 27: Click on div Close
+Step 28: Click on link AboutUs -> Navigate to page 'company profile#*'
+Step 29: Take full page screenshot as checkpoint
+",Trivial,NEW
+9,Complete Quote Request with Service and Team Navigation,"Navigate through service information, fill out a detailed quote request, and verify the submission page.","Step 1: Navigate to *
+Step 2: Navigate through service information and team details
+	- Step 1: Click on link OurServices -> Navigate to page 'generic homepage#*/home'
+	- Step 2: Click on link LearnMore -> Navigate to page 'disaster recovery services#*/*'
+	- Step 3: Click on link Back2 -> Navigate to page 'generic homepage#*/home'
+	- Step 4: Click on link LearnMore2 -> Navigate to page 'team information#*/*'
+	- Step 5: Click on link serviceOptions
+Step 3: Click on input FullName
+Step 4: Enter input value in input FullName
+Step 5: Click on input Email
+Step 6: Enter input value in input Email
+Step 7: Click on input CompanyName
+Step 8: Enter input value in input CompanyName
+Step 9: Click on input Phone
+Step 10: Enter input value in input Phone
+Step 11: Click on input Position
+Step 12: Enter input value in input Position
+Step 13: Click on form QuoteRequest
+Step 14: Click on input ProjectTimeline
+Step 15: Enter input value in input ProjectTimeline
+Step 16: Click on div designableListOptions (DesignableListOption4)
+Step 17: Click on label TestingTool
+Step 18: Click on div designableListOptions (DesignableListOption5)
+Step 19: Click on input Budget
+Step 20: Enter input value in input Budget
+Step 21: Click on textarea DescribeTestScenarios
+Step 22: Enter input value in textarea DescribeTestScenarios
+Step 23: Click on button Submit
+Step 24: Click on div Close
+Step 25: Click on link Videos -> Navigate to page 'video content page#*/*'
+Step 26: Click on link ContactUs -> Navigate to page 'quote request#*/get-a-quote'
+Step 27: Take full page screenshot as checkpoint
+",Trivial,NEW

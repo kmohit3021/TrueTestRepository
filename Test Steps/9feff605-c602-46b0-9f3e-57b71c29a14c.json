@@ -1,0 +1,33 @@
+{
+    "steps": [
+        "step 1: Navigate to *",
+        "step 2: Click on link OurServices -> Navigate to page 'generic homepage#*/home'",
+        "step 3: Click on link LearnMore2 -> Navigate to page 'team information#*/*'",
+        "step 4: Click on link serviceOptions (BuyService2) -> Navigate to page 'quote request#*/get-a-quote'",
+        "step 5: Click on input FullName",
+        "step 6: Enter input value in input FullName",
+        "step 7: Click on input Email",
+        "step 8: Enter input value in input Email",
+        "step 9: Click on input CompanyName",
+        "step 10: Enter input value in input CompanyName",
+        "step 11: Click on input Phone",
+        "step 12: Enter input value in input Phone",
+        "step 13: Click on input Position",
+        "step 14: Enter input value in input Position",
+        "step 15: Click on input ProjectTimeline",
+        "step 16: Enter input value in input ProjectTimeline",
+        "step 17: Click on div designableListOptions (designableListOption)",
+        "step 18: Click on div designableListOptions (designableListOption2)",
+        "step 19: Click on input Budget",
+        "step 20: Enter input value in input Budget",
+        "step 21: Click on textarea DescribeTestScenarios",
+        "step 22: Enter input value in textarea DescribeTestScenarios",
+        "step 23: Click on button Submit",
+        "step 24: Click on input Phone",
+        "step 25: Enter input value in input Phone",
+        "step 26: Click on button Submit",
+        "step 27: Click on div Close",
+        "step 28: Click on link AboutUs -> Navigate to page 'company profile#*'",
+        "step 29: Take full page screenshot as checkpoint"
+    ]
+}

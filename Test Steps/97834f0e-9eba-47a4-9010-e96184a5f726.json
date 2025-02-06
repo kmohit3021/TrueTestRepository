@@ -1,0 +1,31 @@
+{
+    "steps": [
+        "step 1: Navigate to *",
+        "step 2: Navigate through service information and team details",
+        "step 3: Click on input FullName",
+        "step 4: Enter input value in input FullName",
+        "step 5: Click on input Email",
+        "step 6: Enter input value in input Email",
+        "step 7: Click on input CompanyName",
+        "step 8: Enter input value in input CompanyName",
+        "step 9: Click on input Phone",
+        "step 10: Enter input value in input Phone",
+        "step 11: Click on input Position",
+        "step 12: Enter input value in input Position",
+        "step 13: Click on form QuoteRequest",
+        "step 14: Click on input ProjectTimeline",
+        "step 15: Enter input value in input ProjectTimeline",
+        "step 16: Click on div designableListOptions (DesignableListOption4)",
+        "step 17: Click on label TestingTool",
+        "step 18: Click on div designableListOptions (DesignableListOption5)",
+        "step 19: Click on input Budget",
+        "step 20: Enter input value in input Budget",
+        "step 21: Click on textarea DescribeTestScenarios",
+        "step 22: Enter input value in textarea DescribeTestScenarios",
+        "step 23: Click on button Submit",
+        "step 24: Click on div Close",
+        "step 25: Click on link Videos -> Navigate to page 'video content page#*/*'",
+        "step 26: Click on link ContactUs -> Navigate to page 'quote request#*/get-a-quote'",
+        "step 27: Take full page screenshot as checkpoint"
+    ]
+}

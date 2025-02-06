@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to *",
+        "step 2: Click on link OurServices -> Navigate to page 'generic homepage#*/home'",
+        "step 3: Click on link LearnMore -> Navigate to page 'disaster recovery services#*/*'",
+        "step 4: Click on link Back",
+        "step 5: Fill out the quote request form with project details",
+        "step 6: Take full page screenshot as checkpoint"
+    ]
+}
